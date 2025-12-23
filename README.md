@@ -108,16 +108,24 @@ If you want, I can design a professional screenshot frame 💜
 
 ## 🗺️ Roadmap
 
-- [ ] Add hourly forecast  
-- [ ] Add weekly forecast  
-- [ ] Add animated weather icons  
-- [ ] Add dark/light theme  
-- [ ] Enhance mobile view  
-- [ ] Deploy to Vercel / Netlify  
-- [ ] Integrate backend proxy  
-- [ ] Add charts for weather trends  
+- Add hourly forecast  
+- Add weekly forecast  
+- Add animated weather icons  
+- Add dark/light theme  
+- Enhance mobile view  
+- Deploy to Vercel / Netlify  
+- Integrate backend proxy  
+- Add charts for weather trends  
 
 ---
+
+## Diagrams
+
+### StateManager
+![Weather state manager](./assets/statemanager.jpeg)
+
+### runtime
+![Weather runtime](./assets/runtime.jpeg)
 
 
 🌤️ **Clean UI. Accurate Data. Real-Time Weather.**  
