@@ -122,10 +122,10 @@ If you want, I can design a professional screenshot frame 💜
 ## Diagrams
 
 ### StateManager
-![Weather state manager](./assets/statemanager.jpeg)
+![Weather state manager](./assets/runtime.JPG)
 
 ### runtime
-![Weather runtime](./assets/runtime.jpeg)
+![Weather runtime](./assets/statemanager.JPG)
 
 
 🌤️ **Clean UI. Accurate Data. Real-Time Weather.**  
