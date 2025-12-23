@@ -83,17 +83,6 @@ Handles:
 
 ---
 
-## 📸 Screenshots
-
-Add your screenshots inside the `assets/` folder.
-
-Example:
-
-
-If you want, I can design a professional screenshot frame 💜
-
----
-
 ## 📘 What I Learned
 
 - How to consume REST APIs  
