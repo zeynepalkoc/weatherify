@@ -117,5 +117,4 @@ Handles:
 ![Weather state manager](./assets/runtime.JPG)
 
 
-🌤️ **Clean UI. Accurate Data. Real-Time Weather.**  
-Built with ❤️ using React.
+
