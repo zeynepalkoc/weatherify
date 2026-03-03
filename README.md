@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+#  Weather App
 
 A responsive and modern weather application built with **React**, designed to display real-time weather information through a clean and intuitive interface.  
 Users can search for cities worldwide, check detailed weather data, and access a local history of their previous searches.
@@ -7,23 +7,23 @@ This project demonstrates core front-end skills such as **API integration**, **c
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 Search weather by city name  
-- 🌍 Fetch weather using device **Geolocation API**  
-- 📊 View detailed weather metrics:  
+- Search weather by city name  
+-  Fetch weather using device **Geolocation API**  
+- View detailed weather metrics:  
   - Temperature  
   - Humidity  
   - Wind speed  
   - Pressure  
   - Feels like  
-- 🕒 Auto-saved search history via **LocalStorage**  
-- ⚡ Fast and dynamic UI using React Hooks  
-- 📱 Fully responsive design  
+- Auto-saved search history via **LocalStorage**  
+- Fast and dynamic UI using React Hooks  
+- Fully responsive design  
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **React**
 - **JavaScript (ES6+)**
@@ -35,7 +35,7 @@ This project demonstrates core front-end skills such as **API integration**, **c
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 src/
 ├── components/
 │ ├── CountrySelect.jsx
@@ -52,21 +52,21 @@ src/
 
 ---
 
-## 🔑 API Setup (IMPORTANT)
+##  API Setup (IMPORTANT)
 
 This project uses **OpenWeatherMap API**.  
 Create an account and get your API key from:
 
-👉 https://openweathermap.org/api
+https://openweathermap.org/api
 
-Then create a `.env` file in the project root:
+Then create a `.env-example` file in the project root:
 
 
 Restart the dev server after adding the key.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ### ✔ `useWeather.js` — Custom Hook  
 Handles:
@@ -83,7 +83,7 @@ Handles:
 
 ---
 
-## 📘 What I Learned
+## What I Learned
 
 - How to consume REST APIs  
 - Custom React hooks for logic separation  
@@ -95,7 +95,7 @@ Handles:
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - Add hourly forecast  
 - Add weekly forecast  
